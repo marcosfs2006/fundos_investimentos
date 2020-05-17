@@ -12,3 +12,8 @@ Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investiment
 * [Fundos Estruturados: Informação Cadastral](http://dados.cvm.gov.br/dataset/fie-cad)
 * [DAIR](http://www.previdencia.gov.br/dados-abertos/estatisticas-e-informacoes-dos-rpps/) - Dados sobre o DAIR disponibilizados pela Secretaria de Previdência Social
 
+**Material sobre detecção de fraudes usando análise de redes sociais**
+
+* [Social Networks for Fraud Analytics](https://youtu.be/XYk4Xtad0Bg) - Vídeo Youtube     
+* (...)   
+
