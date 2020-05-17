@@ -4,9 +4,11 @@ Repositório para compartilhamento de análises de dados previdenciários utiliz
 
 ## Fundos de Investimentos
 
-Estte projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar quais Fundos podem vir a apresentar problemas.
+Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar quais Fundos podem vir a apresentar problemas.
 
 **Material de interesse:**
 
-[Informes Diários - CVM](http://dados.cvm.gov.br/dataset/fi-doc-inf_diario)    
-[Fundos Estruturados: Informação Cadastral](http://dados.cvm.gov.br/dataset/fie-cad)   
+* [Informes Diários - CVM](http://dados.cvm.gov.br/dataset/fi-doc-inf_diario)    
+* [Fundos Estruturados: Informação Cadastral](http://dados.cvm.gov.br/dataset/fie-cad)
+* [DAIR](http://www.previdencia.gov.br/dados-abertos/estatisticas-e-informacoes-dos-rpps/) - Dados sobre o DAIR disponibilizados pela Secretaria de Previdência Social
+
