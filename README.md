@@ -16,5 +16,6 @@ Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investiment
 **Material sobre detecção de fraudes usando análise de redes sociais**
 
 * [Social Networks for Fraud Analytics](https://youtu.be/XYk4Xtad0Bg) - Vídeo Youtube     
+* [Guilt-by-Constellation: Fraud Detection by Suspicious Clique Membership](https://www.andrew.cmu.edu/user/lakoglu/pubs/Guilt-by-Constellation-FraudDetectionbySuspiciousCliqueMemberships.pdf) - Artigo    
 * (...)   
 
