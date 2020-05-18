@@ -2,6 +2,9 @@
 
 Repositório para compartilhamento de análises de dados previdenciários utilizando **Notebooks** elaborados no [Google Colab](https://colab.research.google.com/).
 
+O notebook para a análsise dos dados pode ser visualizado no seguinte link: https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob?usp=sharing
+
+
 ## Fundos de Investimentos
 
 Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar quais Fundos podem vir a apresentar problemas.
