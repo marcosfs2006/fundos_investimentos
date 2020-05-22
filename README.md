@@ -12,6 +12,10 @@ Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investiment
 * [Informes Diários - CVM](http://dados.cvm.gov.br/dataset/fi-doc-inf_diario)    
 * [Fundos Estruturados: Informação Cadastral](http://dados.cvm.gov.br/dataset/fie-cad)
 * [DAIR](http://www.previdencia.gov.br/dados-abertos/estatisticas-e-informacoes-dos-rpps/) - Dados sobre o DAIR disponibilizados pela Secretaria de Previdência Social
+* [Relação de fundos vedados](http://sa.previdencia.gov.br/site/2018/12/FUNDOS-VEDADOS-CARTEIRA-DOS-FUNDOS-21122018.pdf)    
+* [Enquadramento dos fundos](http://sa.previdencia.gov.br/site/2020/03/Planilha-Consolidada031220.xlsx)   
+    
+
 
 **Material sobre detecção de fraudes usando análise de redes sociais**
 
