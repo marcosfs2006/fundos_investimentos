@@ -23,3 +23,12 @@ Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investiment
 * [Guilt-by-Constellation: Fraud Detection by Suspicious Clique Membership](https://www.andrew.cmu.edu/user/lakoglu/pubs/Guilt-by-Constellation-FraudDetectionbySuspiciousCliqueMemberships.pdf) - Artigo    
 * (...)   
 
+**Operações da PF envolvendo Fundos de Investimentos**
+
+* Operação Papel Fantasma    
+* Operação Encilhamento    
+* Operação Rizoma    
+* Operação Gatekeepers    
+* Operação Pausares    
+* Operação Abismo    
+
