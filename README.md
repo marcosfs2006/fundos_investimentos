@@ -42,10 +42,21 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 </br>
 
-**Outras Investigações* envolvendo Fundos de Investimentos*
+**Outras Investigações* envolvendo Fundos de Investimentos**
 
 * [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)    
 
 
+</br>
+
 **Regulamentação CVM**
+
+
+</br>
+
+**Outros Materiais**
+
+* [Investimentos - Legislação Consolidada (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-legislacao-consolidade/)    
+* [Invetimentos - Estatísticas e Informações (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-estatisticas-e-informacoes/)    
+* [Fundos de Investimentos para RPPS – CVM – CADERNO 10](http://sa.previdencia.gov.br/site/2016/08/CVM-Caderno-10semISBNparaimpressao.pdf)    
 
