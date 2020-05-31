@@ -1,11 +1,12 @@
-# Rede RPPS
+# Fundos de Investimentos
 
-Repositório para compartilhamento de análises de dados previdenciários utilizando **Notebooks** elaborados no [Google Colab](https://colab.research.google.com/).
+Repositório para compartilhamento de análises relacionadas a Fundos de Investimento no âmbito dos Regimes Próprios de Previdência Social - RPPS. 
 
+As análises são implementadas no [Google Colab](https://colab.research.google.com/) utilizando dados abertos disponibiliados pela Secretaria de Previdência do Ministério da Economia e pala CVM.
 
-## Fundos de Investimentos
+Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
 
-Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar quais Fundos podem vir a apresentar problemas.
+Reunimos a seguir alguns materiais e informações que podem ser de interesse para quem quiser trabalhar com essas dados.
 
 **Material de interesse:**
 
