@@ -38,7 +38,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 * [Operação Abismo](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
 * [Operação Greenfield](https://g1.globo.com/sao-paulo/noticia/pf-realiza-2-fase-da-operacao-greenfield-que-investiga-fraudes-em-fundos-de-pensao.ghtml)   
 * [Operação Fundo Perdido](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
-* [Operação fundo falso](http://www.pf.gov.br/agencia/noticias/2014/03/operacao-fundo-falso-combate-grupo-que-fraudava-fundos-de-pensao-municipais)
+* [Operação Fundo Falso](http://www.pf.gov.br/agencia/noticias/2014/03/operacao-fundo-falso-combate-grupo-que-fraudava-fundos-de-pensao-municipais)
 
 </br>
 
@@ -49,7 +49,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 </br>
 
-**Regulamentação CVM**
+**Regulamentação CVM relativa a Fundos de Investimentos**
 
 
 </br>
