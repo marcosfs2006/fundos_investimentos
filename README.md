@@ -42,7 +42,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 </br>
 
-**Outras Investigações* envolvendo Fundos de Investimentos**
+**Outras investigações envolvendo Fundos de Investimentos**
 
 * [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)    
 
