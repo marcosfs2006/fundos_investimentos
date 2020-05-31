@@ -28,7 +28,10 @@ Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investiment
 * Operação Papel Fantasma    
 * Operação Encilhamento    
 * Operação Rizoma    
-* Operação Gatekeepers    
-* Operação Pausares    
-* Operação Abismo    
+* [Operação Gatekeepers](http://www.pf.gov.br/agencia/noticias/2018/04/pf-combate-fraudes-envolvendo-fundos-de-pensao)    
+* [Operação Pausares](http://www.mpf.mp.br/df/sala-de-imprensa/noticias-df/operacao-pausare-acao-do-mpf-e-da-pf-mira-organizacao-criminosa-que-agiu-no-postalis)    
+* [Operação Abismo](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
+
+* [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)    
+
 
