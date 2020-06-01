@@ -71,5 +71,5 @@ IN CVM | OBJETO
 * [Investimentos - Legislação Consolidada (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-legislacao-consolidade/)    
 * [Invetimentos - Estatísticas e Informações (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-estatisticas-e-informacoes/)    
 * [Fundos de Investimentos para RPPS – CVM – CADERNO 10](http://sa.previdencia.gov.br/site/2016/08/CVM-Caderno-10semISBNparaimpressao.pdf)    
-* [RESOLUÇÃO NORMATIVA Nº 14/2018 – TP](https://www.tce.mt.gov.br/conteudo/show/sid/73/cid/47023/t/Nova+metodologia+apura+preju%EDzo+por+exposi%E7%E3o+temer%E1ria+dos+recursos+do+RPPS) Metodologia para Apuração de Prejuízo por Exposição Temerária dos Recursos do RPPS
+* [RESOLUÇÃO NORMATIVA Nº 14/2018 TP - TCE MT ](https://www.tce.mt.gov.br/conteudo/show/sid/73/cid/47023/t/Nova+metodologia+apura+preju%EDzo+por+exposi%E7%E3o+temer%E1ria+dos+recursos+do+RPPS) Metodologia para Apuração de Prejuízo por Exposição Temerária dos Recursos do RPPS
 * [Aplicações Financeiras dos Regimes Próprios de Previdencia Social - TCE MT](https://www.tce.mt.gov.br/arquivos/downloads/00077163/PubliContas%C2%BFTCE-MT_Aplica%C3%A7%C3%B5esFinanceiras%20do%20RPPS%20-%20digital.pdf)
