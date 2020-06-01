@@ -54,10 +54,10 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 IN CVM | OBJETO
 -------|-------------------------------------------------------------
 [555](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst555.pdf)    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
-356    | FIDC - Fundos de Investimentos em Direitos Creditórios
-444    | FIDC-NP - Ffundos de Investimentos em Diretiros Creditórios Não Padronizados
-472    | FII - Fundos de Investimentos Imobiliários
-578/579| FIP - Fundo de Investimentos em Participações
+[356](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/300/inst356consolid.pdf)    | FIDC - Fundos de Investimentos em Direitos Creditórios
+[444](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/400/inst444.pdf)    | FIDC-NP - Ffundos de Investimentos em Diretiros Creditórios Não Padronizados
+[472](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/400/inst472consolid.pdf)    | FII - Fundos de Investimentos Imobiliários
+[578](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst578consolid.pdf)/[579](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst579.pdf)| FIP - Fundo de Investimentos em Participações
 400/476| Oferta pública de cotas / esforços restritos
 
 
