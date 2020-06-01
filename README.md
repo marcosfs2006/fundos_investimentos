@@ -51,6 +51,18 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 **Regulamentação CVM relativa a Fundos de Investimentos**
 
+IN CVM | OBJETO
+-------|-------------------------------------------------------------
+555    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
+356    | FIDIC - Fundos de Investimentos em Direitos Creditórios
+444    | FIDIC não padronizado
+472    | FII - Fundos de Investimentos Imobiliários
+578/579| FIP - Fundo de Investimentos em Participações
+400/476| Oferta pública de cotas / esforços restritos
+
+
+
+
 
 </br>
 
