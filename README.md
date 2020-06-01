@@ -67,7 +67,7 @@ IN CVM | OBJETO
 Não relaçãode fundos vedados disponibilizada pela SPrev são apresentadas algumas razões pelas quais a aplicação de recursos em determinado fundo seria vedado ao RPPS. As razões são as elencadas a seguir:
 
 Razão                      |  Fundamento Legal
----------------------------------------------------------------------------------------------------
+---------------------------|-----------------------------------------------------------------
 Ativo Vedado               | xx
 CRI / CRA                  | xx
 FIDC Vedado                | xx
