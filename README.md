@@ -60,6 +60,23 @@ IN CVM | OBJETO
 [578](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst578consolid.pdf)/[579](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst579.pdf)| FIP - Fundo de Investimentos em Participações
 400/476| Oferta pública de cotas / esforços restritos
 
+</br>
+
+**Vedações aos Investimentos dos RPPS**
+
+Não relaçãode fundos vedados disponibilizada pela SPrev são apresentadas algumas razões pelas quais a aplicação de recursos em determinado fundo seria vedado ao RPPS. As razões são as elencadas a seguir:
+
+Razão                      |  Fundamento Legal
+---------------------------------------------------------------------------------------------------
+Ativo Vedado               | xx
+CRI / CRA                  | xx
+FIDC Vedado                | xx
+FIP Vedado                 | xx
+FII Vedado                 | xx
+FII - Negociação 60%       | xx
+Investidor Profissional    | xx
+FIDC Vedado - Classe Única | xx
+
 
 
 
