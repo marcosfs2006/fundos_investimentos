@@ -53,9 +53,9 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 IN CVM | OBJETO
 -------|-------------------------------------------------------------
-555    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
-356    | FIDIC - Fundos de Investimentos em Direitos Creditórios
-444    | FIDIC não padronizado
+[555](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst555.pdf)    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
+356    | FIDC - Fundos de Investimentos em Direitos Creditórios
+444    | FIDC-NP - Ffundos de Investimentos em Diretiros Creditórios Não Padronizados
 472    | FII - Fundos de Investimentos Imobiliários
 578/579| FIP - Fundo de Investimentos em Participações
 400/476| Oferta pública de cotas / esforços restritos
