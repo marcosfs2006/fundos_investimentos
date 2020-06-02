@@ -69,13 +69,13 @@ Não relaçãode fundos vedados disponibilizada pela SPrev são apresentadas alg
 Razão                      |  Fundamento Legal
 ---------------------------|-----------------------------------------------------------------
 Ativo Vedado               | xx
-CRI / CRA                  | xx
+CRI / CRA                  | **Art. 7o, par. 8o, II**
 FIDC Vedado                | Art. 23, III, Res. 3922/10 (FIDC não padronizado)
 FIP Vedado                 | xx
 FII Vedado                 | xx
-FII - Negociação 60%       | xx
-Investidor Profissional    | xx
-FIDC Vedado - Classe Única | xx
+FII - Negociação 60%       | **Art. 8o, IV, b da Res. 3922/10**
+Investidor Profissional    | **Art. 23, VII**
+FIDC Vedado - Classe Única | **Art. 7^o^, VII, a**
 
 Adicionalmente às razões acima elencadas, a Resolução 3922/10, em seu art. 15, par. 2o assim dispõe:
 
