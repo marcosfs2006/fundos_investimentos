@@ -70,7 +70,7 @@ Razão                      |  Fundamento Legal
 ---------------------------|-----------------------------------------------------------------
 Ativo Vedado               | xx
 CRI / CRA                  | xx
-FIDC Vedado                | xx
+FIDC Vedado                | Art. 23, III, Res. 3922/10 (FIDC não padronizado)
 FIP Vedado                 | xx
 FII Vedado                 | xx
 FII - Negociação 60%       | xx
