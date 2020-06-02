@@ -44,7 +44,8 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 **Outras investigações envolvendo Fundos de Investimentos**
 
-* [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)    
+* [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)   
+* [CPI dos Fundos de Pensão](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/parlamentar-de-inquerito/55a-legislatura/cpi-fundos-de-pensao/documentos/outros-documentos-1/relatorio-final-apresentado-em-12-04-16)
 
 
 </br>
