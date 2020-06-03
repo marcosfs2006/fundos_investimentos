@@ -17,7 +17,10 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 * [DAIR](http://www.previdencia.gov.br/dados-abertos/estatisticas-e-informacoes-dos-rpps/) - Dados sobre o DAIR disponibilizados pela Secretaria de Previdência Social
 * [Relação de fundos vedados](http://sa.previdencia.gov.br/site/2018/12/FUNDOS-VEDADOS-CARTEIRA-DOS-FUNDOS-21122018.pdf)    
 * [Enquadramento dos fundos](http://sa.previdencia.gov.br/site/2020/03/Planilha-Consolidada031220.xlsx)   
-    
+* [Ofício Circular Conjunto nº 1/2018/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2018/08/oc-sin-sprev-012018.pdf)    
+* [Ofício Circular Conjunto nº 3/2019/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2019/02/Oficio-Circular-CVM-SIN-SPREV-03_2019.pdf)   
+
+
 </br>
 
 **Material sobre detecção de fraudes usando análise de redes sociais**
@@ -105,6 +108,7 @@ Em razão desse dispositivo, a SPrev publicou lista exaustiva das sociedades emp
 
 * [Investimentos - Legislação Consolidada (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-legislacao-consolidade/)    
 * [Invetimentos - Estatísticas e Informações (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-estatisticas-e-informacoes/)    
+* [Investimentos – Tire suas dúvidas (SPrev)](http://www.previdencia.gov.br/regimes-proprios/investimentos-do-rpps/investimento-tire-suas-duvidas/)
 * [Fundos de Investimentos para RPPS – CVM – CADERNO 10](http://sa.previdencia.gov.br/site/2016/08/CVM-Caderno-10semISBNparaimpressao.pdf)    
 * [Resolução Normativa nº 14/2018 - TCE MT ](https://www.tce.mt.gov.br/conteudo/show/sid/73/cid/47023/t/Nova+metodologia+apura+preju%EDzo+por+exposi%E7%E3o+temer%E1ria+dos+recursos+do+RPPS) Metodologia para Apuração de Prejuízo por Exposição Temerária dos Recursos do RPPS
 * [Aplicações Financeiras dos Regimes Próprios de Previdencia Social - TCE MT](https://www.tce.mt.gov.br/arquivos/downloads/00077163/PubliContas%C2%BFTCE-MT_Aplica%C3%A7%C3%B5esFinanceiras%20do%20RPPS%20-%20digital.pdf)
