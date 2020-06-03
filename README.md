@@ -102,6 +102,8 @@ qualidade de gestão e de ambiente de controle de investimento._
 
 Em razão desse dispositivo, a SPrev publicou lista exaustiva das sociedades empresárias que atendem a estes requisitos. Assim, caso um fundo de investimento possua administrador e gestor que não estejam na referida lista, não é elegível para receber aplicações de recursos dos RPPS. 
 
+[Instituições financeiras que atendem o previsto no art. 15](http://sa.previdencia.gov.br/site/2018/12/Instituicoes-financeiras-que-atendem-o-previsto-no-art.-15.pdf)
+
 </br>
 
 **Outros Materiais**
