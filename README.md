@@ -1,4 +1,4 @@
-# Fundos de Investimentos
+# Fundos de Investimentos em RPPS
 
 Repositório para compartilhamento de análises relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. 
 
