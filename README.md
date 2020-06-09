@@ -83,17 +83,17 @@ FIDC Vedado - Classe Única | **Art. 7o, VII, 'a' Res. 3922/10**
 
 Adicionalmente às razões acima elencadas, a Resolução 3922/10, em seu art. 15, par. 2o assim dispõe:
 
-_(...)
+_(...)_
 _§ 2º Os regimes próprios de previdência social **somente poderão aplicar recursos
-em cotas de fundos de investimento** quando atendidas, cumulativamente, as seguintes condições:
+em cotas de fundos de investimento** quando atendidas, cumulativamente, as seguintes condições:_
 
 _I - o administrador ou o gestor do fundo de investimento seja instituição
 autorizada a funcionar pelo Banco Central do Brasil obrigada a instituir comitê de auditoria e
-comitê de riscos, nos termos da regulamentação do Conselho Monetário Nacional;
+comitê de riscos, nos termos da regulamentação do Conselho Monetário Nacional;_
 
 _II - o administrador do fundo de investimento detenha, no máximo, 50%
 (cinquenta por cento) dos recursos sob sua administração oriundos de regimes próprios de
-previdência social;
+previdência social;_
 
 _III - o gestor e o administrador do fundo de investimento tenham sido objeto de
 prévio credenciamento, de que trata o inciso VI do § 1º do art. 1º, e sejam considerados pelos
