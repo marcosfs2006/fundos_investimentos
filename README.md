@@ -40,8 +40,9 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 * [Operação Pausares](http://www.mpf.mp.br/df/sala-de-imprensa/noticias-df/operacao-pausare-acao-do-mpf-e-da-pf-mira-organizacao-criminosa-que-agiu-no-postalis)    
 * [Operação Abismo](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
 * [Operação Greenfield](https://g1.globo.com/sao-paulo/noticia/pf-realiza-2-fase-da-operacao-greenfield-que-investiga-fraudes-em-fundos-de-pensao.ghtml)   
-* [Operação Fundo Perdido](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
-* [Operação Fundo Falso](http://www.pf.gov.br/agencia/noticias/2014/03/operacao-fundo-falso-combate-grupo-que-fraudava-fundos-de-pensao-municipais)
+* [Operação Fundo Perdido - **08/05/2018](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
+* [Operação Fundo Falso - **11/03/2014**](http://www.pf.gov.br/agencia/noticias/2014/03/operacao-fundo-falso-combate-grupo-que-fraudava-fundos-de-pensao-municipais)    
+* [Operação Fundo Fake - **15/07/2020**](http://www.pf.gov.br/imprensa/noticias/2020/07-noticias-de-julho-de-2020/operacao-fundo-fake-investiga-gestoes-fraudulentas-em-fundos-de-previdencias-municipais)
 
 </br>
 
