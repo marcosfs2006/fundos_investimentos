@@ -2,7 +2,7 @@
 
 Repositório para compartilhamento de análises relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. 
 
-As análises são implementadas no [Google Colab](https://colab.research.google.com/) utilizando dados abertos disponibiliados pela Secretaria de Previdência do Ministério da Economia e pala CVM.
+As análises são implementadas no [Google Colab](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob) utilizando dados abertos disponibiliados pela Secretaria de Previdência do Ministério da Economia e pala CVM.
 
 Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
 
