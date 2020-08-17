@@ -31,6 +31,11 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 </br>
 
+**Material da ABIPEM**
+
+
+</br>
+
 **Material sobre detecção de fraudes usando análise de redes sociais**
 
 * [Social Networks for Fraud Analytics](https://youtu.be/XYk4Xtad0Bg) - Vídeo Youtube     
