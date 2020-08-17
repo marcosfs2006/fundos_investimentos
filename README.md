@@ -23,6 +23,14 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 </br>
 
+**Curso TCE-S - Fundos de Investimento: Análise e Legislação**
+* [Aula 1 - 17/08/2020](https://www.youtube.com/watch?v=XHM5rxQ_IkA)   
+* [Aula 2 - 21/08/2020]()    
+* [Aula 3 - 24/08/2020]()    
+* [Aula 4 - 28/08/2020]()
+
+</br>
+
 **Material sobre detecção de fraudes usando análise de redes sociais**
 
 * [Social Networks for Fraud Analytics](https://youtu.be/XYk4Xtad0Bg) - Vídeo Youtube     
@@ -33,13 +41,13 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 **Operações da PF envolvendo Fundos de Investimentos**
 
-* [Operação Papel Fantasma](http://www.pf.gov.br/agencia/noticias/2017/07/pf-deflagra-operacao-contra-fraudes-em-previdencias-municipais)    
-* [Operação Encilhamento](http://www.mpf.mp.br/sp/sala-de-imprensa/noticias-sp/alvos-de-denuncia-do-mpf-empresarios-viram-reus-por-fraudes-milionarias-a-institutos-municipais-de-previdencia)    
-* [Operação Rizoma](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Rizoma)    
-* [Operação Gatekeepers](http://www.pf.gov.br/agencia/noticias/2018/04/pf-combate-fraudes-envolvendo-fundos-de-pensao)    
-* [Operação Pausares](http://www.mpf.mp.br/df/sala-de-imprensa/noticias-df/operacao-pausare-acao-do-mpf-e-da-pf-mira-organizacao-criminosa-que-agiu-no-postalis)    
-* [Operação Abismo](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
-* [Operação Greenfield](https://g1.globo.com/sao-paulo/noticia/pf-realiza-2-fase-da-operacao-greenfield-que-investiga-fraudes-em-fundos-de-pensao.ghtml)   
+* [Operação Papel Fantasma - **06/07/2017**](http://www.pf.gov.br/agencia/noticias/2017/07/pf-deflagra-operacao-contra-fraudes-em-previdencias-municipais)    
+* [Operação Encilhamento - **12/04/2018**](http://www.mpf.mp.br/sp/sala-de-imprensa/noticias-sp/alvos-de-denuncia-do-mpf-empresarios-viram-reus-por-fraudes-milionarias-a-institutos-municipais-de-previdencia)    
+* [Operação Rizoma - **12/04/2018**](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Rizoma)    
+* [Operação Gatekeepers - **19/04/2018**](http://www.pf.gov.br/agencia/noticias/2018/04/pf-combate-fraudes-envolvendo-fundos-de-pensao)    
+* [Operação Pausares - **01/02/2018**](http://www.mpf.mp.br/df/sala-de-imprensa/noticias-df/operacao-pausare-acao-do-mpf-e-da-pf-mira-organizacao-criminosa-que-agiu-no-postalis)    
+* [Operação Abismo - **31/10/2018**](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
+* [Operação Greenfield - **05/09/2016** (1a fase) **08/03/2017 (2a fase)](https://g1.globo.com/sao-paulo/noticia/pf-realiza-2-fase-da-operacao-greenfield-que-investiga-fraudes-em-fundos-de-pensao.ghtml)   
 * [Operação Fundo Perdido - **08/05/2018**](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
 * [Operação Fundo Falso - **11/03/2014**](http://www.pf.gov.br/agencia/noticias/2014/03/operacao-fundo-falso-combate-grupo-que-fraudava-fundos-de-pensao-municipais)    
 * [Operação Fundo Fake - **15/07/2020**](http://www.pf.gov.br/imprensa/noticias/2020/07-noticias-de-julho-de-2020/operacao-fundo-fake-investiga-gestoes-fraudulentas-em-fundos-de-previdencias-municipais)
