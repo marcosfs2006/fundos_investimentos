@@ -25,9 +25,9 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 **Curso TCE-S - Fundos de Investimento: Análise e Legislação**
 * [Aula 1 - 17/08/2020](https://www.youtube.com/watch?v=XHM5rxQ_IkA)   
-* [Aula 2 - 21/08/2020]()    
-* [Aula 3 - 24/08/2020]()    
-* [Aula 4 - 28/08/2020]()
+* Aula 2 - 21/08/2020    
+* Aula 3 - 24/08/2020    
+* Aula 4 - 28/08/2020
 
 </br>
 
