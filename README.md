@@ -35,6 +35,10 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 * [Fundos Estressados dos RPPS](https://www.youtube.com/watch?v=rhc9g5W7228)    
 
 </br>
+**Material ANBIMA**
+* [Código de Administração de Recursos de Terceiros](https://www.anbima.com.br/pt_br/autorregular/codigos/administracao-de-recursos-de-terceiros.htm)    
+
+</br>
 
 **Material sobre detecção de fraudes usando análise de redes sociais**
 
