@@ -33,6 +33,14 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 
 **Material da ABIPEM**
 * [Fundos Estressados dos RPPS](https://www.youtube.com/watch?v=rhc9g5W7228)    
+* [1º Congresso Brasileiro de Investimentos dos RPPS](http://www.tvabipem.com.br/default?g=24|63|63)    
+  + [Contratação de Consultoria de Investimentos](http://www.tvabipem.com.br/midia?v=IECPZRT0EO)    
+  + [Porque adotar o Compliance na gestão dos Investimentos](http://www.tvabipem.com.br/midia?v=YTPIQV0HKI)    
+  + [Seleção dos investimentos - fundos, títulos públicos, investimentos e desinvestimentos](http://www.tvabipem.com.br/midia?v=HVJFC70J7Z)    
+  + [Os Sistemas de Controle e as Responsabilidades dos Gestores Financeiros](http://www.tvabipem.com.br/midia?v=PYPNJQASLO)    
+  + [O Comitê de Investimentos e o Credenciamento](http://www.tvabipem.com.br/midia?v=KOMEHI3RWY)    
+  + [Ética na Gestão Financeira dos Recursos do seu RPPS](http://www.tvabipem.com.br/midia?v=PPWXFTFWHU)    
+
 
 </br>
 
