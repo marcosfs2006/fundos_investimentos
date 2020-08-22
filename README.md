@@ -32,7 +32,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 </br>
 
 **Material da ABIPEM**
-* [Fundos Estressados dos RPPS](https://www.youtube.com/watch?v=rhc9g5W7228)    
+* [Fundos Estressados dos RPPS - 21/05/2020](https://www.youtube.com/watch?v=rhc9g5W7228)    
 * [1º Congresso Brasileiro de Investimentos dos RPPS](http://www.tvabipem.com.br/default?g=24|63|63)    
   + [Contratação de Consultoria de Investimentos](http://www.tvabipem.com.br/midia?v=IECPZRT0EO)    
   + [Porque adotar o Compliance na gestão dos Investimentos](http://www.tvabipem.com.br/midia?v=YTPIQV0HKI)    
@@ -41,6 +41,8 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
   + [O Comitê de Investimentos e o Credenciamento](http://www.tvabipem.com.br/midia?v=KOMEHI3RWY)    
   + [Ética na Gestão Financeira dos Recursos do seu RPPS](http://www.tvabipem.com.br/midia?v=PPWXFTFWHU)    
 * [Seminário de Investimentos ABIPEM: Alocação em ativos - 20/05/2020](https://www.youtube.com/watch?v=2iYuMw-Q_BQ&t=831s)    
+* [Semana On-line de Investimentos para os RPPS](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
+
 
 </br>
 
