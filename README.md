@@ -1,12 +1,12 @@
 # Fundos de Investimentos em RPPS
 
-Repositório para compartilhamento de análises relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. 
+Repositório para compartilhamento de dados e materiais relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. Os dados aqui disponibilizados são utilizados para análises que são implementadas no [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true). Estes dados são disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM.
 
-As análises são implementadas no [Google Colab](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob) utilizando dados abertos disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM.
+O notebook com as análises que estamos conduzindo (tudo ainda é bem experimental) pode ser consultado [aqui](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob).
 
 Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
 
-Reunimos a seguir alguns materiais e informações que podem ser de interesse para quem quiser trabalhar com essas dados.
+Reunimos, a seguir, alguns materiais e informações que podem ser de interesse para quem quiser trabalhar com essas dados.
 
 </br>
 
@@ -74,6 +74,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 * [Operação Papel Fantasma - **06/07/2017**](http://www.pf.gov.br/agencia/noticias/2017/07/pf-deflagra-operacao-contra-fraudes-em-previdencias-municipais)    
 * [Operação Pausares - **01/02/2018**](http://www.mpf.mp.br/df/sala-de-imprensa/noticias-df/operacao-pausare-acao-do-mpf-e-da-pf-mira-organizacao-criminosa-que-agiu-no-postalis) 
 * [Operação Encilhamento - **12/04/2018**](http://www.mpf.mp.br/sp/sala-de-imprensa/noticias-sp/alvos-de-denuncia-do-mpf-empresarios-viram-reus-por-fraudes-milionarias-a-institutos-municipais-de-previdencia)    
+  + [Inquérito Policial n.º 004/2017-11 DELECOR/SR/PF/SP](https://www.conjur.com.br/dl/relatorio-pf-fraude-fundo-pensao.pdf)    
 * [Operação Rizoma - **12/04/2018**](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Rizoma)    
 * [Operação Gatekeepers - **19/04/2018**](http://www.pf.gov.br/agencia/noticias/2018/04/pf-combate-fraudes-envolvendo-fundos-de-pensao)    
 * [Operação Fundo Perdido - **08/05/2018**](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
