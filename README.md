@@ -19,7 +19,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
 * [Enquadramento dos fundos](http://sa.previdencia.gov.br/site/2020/03/Planilha-Consolidada031220.xlsx)   
 * [Ofício Circular Conjunto nº 1/2018/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2018/08/oc-sin-sprev-012018.pdf)    
 * [Ofício Circular Conjunto nº 3/2019/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2019/02/Oficio-Circular-CVM-SIN-SPREV-03_2019.pdf)   
-
+* [Credenciamento pelos RPPS das Instituições e Produtos de Investimento](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/investimentos-do-rpps/credenciamento-pelos-rpps-das-instituicoes-e-produtos-de-investimento)
 
 </br>
 
@@ -41,7 +41,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
   + [O Comitê de Investimentos e o Credenciamento](http://www.tvabipem.com.br/midia?v=KOMEHI3RWY)    
   + [Ética na Gestão Financeira dos Recursos do seu RPPS](http://www.tvabipem.com.br/midia?v=PPWXFTFWHU)    
 * [Seminário de Investimentos ABIPEM: Alocação em ativos - 20/05/2020](https://www.youtube.com/watch?v=2iYuMw-Q_BQ&t=831s)    
-* [Semana On-line de Investimentos para os RPPS](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
+* [Semana On-line de Investimentos para os RPPS - 04/05/2020](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
 
 
 </br>
