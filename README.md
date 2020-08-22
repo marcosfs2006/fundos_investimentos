@@ -40,7 +40,7 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
   + [Os Sistemas de Controle e as Responsabilidades dos Gestores Financeiros](http://www.tvabipem.com.br/midia?v=PYPNJQASLO)    
   + [O Comitê de Investimentos e o Credenciamento](http://www.tvabipem.com.br/midia?v=KOMEHI3RWY)    
   + [Ética na Gestão Financeira dos Recursos do seu RPPS](http://www.tvabipem.com.br/midia?v=PPWXFTFWHU)    
-
+* [Seminário de Investimentos ABIPEM: Alocação em ativos - 20/05/2020](https://www.youtube.com/watch?v=2iYuMw-Q_BQ&t=831s)    
 
 </br>
 
@@ -100,13 +100,13 @@ Não relaçãode fundos vedados disponibilizada pela SPrev são apresentadas alg
 Razão                      |  Fundamento Legal
 ---------------------------|-----------------------------------------------------------------
 Ativo Vedado               | xx
-CRI / CRA                  | **Art. 7o, par. 8o, II Res. 3922/10**
+CRI / CRA                  | xx
 FIDC Vedado                | Art. 23, III, Res. 3922/10 (FIDC não padronizado)
 FIP Vedado                 | xx
 FII Vedado                 | xx
-FII - Negociação 60%       | **Art. 8o, IV, 'b' Res. 3922/10**
-Investidor Profissional    | **Art. 23, VII Res. 3922/10**
-FIDC Vedado - Classe Única | **Art. 7o, VII, 'a' Res. 3922/10**
+FII - Negociação 60%       | xx
+Investidor Profissional    | xx
+FIDC Vedado - Classe Única | xx
 
 Adicionalmente às razões acima elencadas, a Resolução 3922/10, em seu art. 15, par. 2o assim dispõe:
 
