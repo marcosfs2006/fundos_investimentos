@@ -41,10 +41,13 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
   + [O Comitê de Investimentos e o Credenciamento](http://www.tvabipem.com.br/midia?v=KOMEHI3RWY)    
   + [Ética na Gestão Financeira dos Recursos do seu RPPS](http://www.tvabipem.com.br/midia?v=PPWXFTFWHU)    
 * [Seminário de Investimentos ABIPEM: Alocação em ativos - 20/05/2020](https://www.youtube.com/watch?v=2iYuMw-Q_BQ&t=831s)    
+* [Investimentos em RV pós COVID-19 - 05/05/2020](https://www.youtube.com/watch?v=ARTfzAn8VOQ)    
 * [Semana On-line de Investimentos para os RPPS - 04/05/2020](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
 * [Diferentes Estratégias em Fundos de Ações - 04/06/2020](https://www.youtube.com/watch?v=hgzOTevY600)
 * [Mercado e Alocação: Como posicionar a carteira em busca da meta atuarial - 07/05/2020](https://www.youtube.com/watch?v=M24NN_1wxoM)    
-* Os Investimentos dos RPPS e os Órgãos Fiscalizadores: [Parte 1](http://www.tvabipem.com.br/midia?v=KRRQJM4M4U), [Parte 2](http://www.tvabipem.com.br/midia?v=5CLCYQZ674)    
+* Os Investimentos dos RPPS e os Órgãos Fiscalizadores: 
+  + [Parte 1](http://www.tvabipem.com.br/midia?v=KRRQJM4M4U)    
+  + [Parte 2](http://www.tvabipem.com.br/midia?v=5CLCYQZ674)    
 
 
 
