@@ -2,7 +2,7 @@
 
 Repositório para compartilhamento de análises relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. 
 
-As análises são implementadas no [Google Colab](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob) utilizando dados abertos disponibiliados pela Secretaria de Previdência do Ministério da Economia e pala CVM.
+As análises são implementadas no [Google Colab](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob) utilizando dados abertos disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM.
 
 Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
 
@@ -42,6 +42,11 @@ Reunimos a seguir alguns materiais e informações que podem ser de interesse pa
   + [Ética na Gestão Financeira dos Recursos do seu RPPS](http://www.tvabipem.com.br/midia?v=PPWXFTFWHU)    
 * [Seminário de Investimentos ABIPEM: Alocação em ativos - 20/05/2020](https://www.youtube.com/watch?v=2iYuMw-Q_BQ&t=831s)    
 * [Semana On-line de Investimentos para os RPPS - 04/05/2020](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
+* [Diferentes Estratégias em Fundos de Ações - 04/06/2020](https://www.youtube.com/watch?v=hgzOTevY600)
+* [Mercado e Alocação: Como posicionar a carteira em busca da meta atuarial - 07/05/2020](https://www.youtube.com/watch?v=M24NN_1wxoM)    
+* Os Investimentos dos RPPS e os Órgãos Fiscalizadores: [Parte 1](http://www.tvabipem.com.br/midia?v=KRRQJM4M4U), [Parte 2](http://www.tvabipem.com.br/midia?v=5CLCYQZ674)    
+
+
 
 
 </br>
