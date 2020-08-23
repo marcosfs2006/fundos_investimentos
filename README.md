@@ -119,11 +119,13 @@ FII - Negociação 60%       | xx
 Investidor Profissional    | xx
 FIDC Vedado - Classe Única | xx
 
-Adicionalmente às razões acima elencadas, a Resolução 3922/10, em seu art. 15, par. 2o assim dispõe:
 
-_(...)_
+Adicionalmente às vedações acima elencadas, a Resolução 3922/10, em seu art. 15, par. 2o assim dispõe:
+
+_(...)_    
+
 _§ 2º Os regimes próprios de previdência social **somente poderão aplicar recursos
-em cotas de fundos de investimento** quando atendidas, cumulativamente, as seguintes condições:_
+em cotas de fundos de investimento** quando atendidas, **cumulativamente**, as seguintes condições:_
 
 _I - o administrador ou o gestor do fundo de investimento seja instituição
 autorizada a funcionar pelo Banco Central do Brasil obrigada a instituir comitê de auditoria e
@@ -137,6 +139,7 @@ _III - o gestor e o administrador do fundo de investimento tenham sido objeto de
 prévio credenciamento, de que trata o inciso VI do § 1º do art. 1º, e sejam considerados pelos
 responsáveis pela gestão de recursos do regime próprio de previdência social como de boa
 qualidade de gestão e de ambiente de controle de investimento._
+
 
 Em razão desse dispositivo, a SPrev publicou lista exaustiva das sociedades empresárias que atendem a estes requisitos. Assim, caso um fundo de investimento possua administrador e gestor que não estejam na referida lista, não é elegível para receber aplicações de recursos dos RPPS. 
 
