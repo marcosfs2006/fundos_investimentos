@@ -6,7 +6,34 @@ O notebook com as análises que estamos conduzindo (tudo ainda é bem experiment
 
 Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
 
-Reunimos, a seguir, alguns materiais e informações que podem ser de interesse para quem quiser trabalhar com essas dados.
+Reunimos, a seguir, alguns materiais e informações que podem ser de interesse para quem quiser trabalhar com esses dados.
+
+</br>
+
+**Legislação Básica**
+
+* Resolução CNM n. 3.922/10
+* [Portaria MPS n. 519](http://sa.previdencia.gov.br/site/2018/01/PORTARIA-MPS-n%C2%BA-519-de-24ago2011-atualizada-at%C3%A9-02jan2018.pdf)   
+
+
+</br>
+
+**Regulamentação CVM relativa a Fundos de Investimentos**
+
+IN CVM | OBJETO
+-------|-------------------------------------------------------------
+[555](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst555.pdf)    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
+[356](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/300/inst356consolid.pdf)    | FIDC - Fundos de Investimentos em Direitos Creditórios
+[444](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/400/inst444.pdf)    | FIDC-NP - Fundos de Investimentos em Diretiros Creditórios não Padronizados
+[472](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/400/inst472consolid.pdf)    | FII - Fundos de Investimentos Imobiliários
+[578](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst578consolid.pdf)/[579](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst579.pdf)| FIP - Fundo de Investimentos em Participações
+400/476| Oferta pública de cotas / esforços restritos   
+592 | Consultoria de Investimentos   
+497 | Agente Autônomo de Investimentos   
+
+
+
+
 
 </br>
 
@@ -20,7 +47,6 @@ Reunimos, a seguir, alguns materiais e informações que podem ser de interesse 
 * [Ofício Circular Conjunto nº 1/2018/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2018/08/oc-sin-sprev-012018.pdf)    
 * [Ofício Circular Conjunto nº 3/2019/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2019/02/Oficio-Circular-CVM-SIN-SPREV-03_2019.pdf)   
 * [Credenciamento pelos RPPS das Instituições e Produtos de Investimento](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/investimentos-do-rpps/credenciamento-pelos-rpps-das-instituicoes-e-produtos-de-investimento)    
-* Portaria 519
 
 </br>
 
@@ -28,7 +54,7 @@ Reunimos, a seguir, alguns materiais e informações que podem ser de interesse 
 * [Aula 1 - 17/08/2020](https://www.youtube.com/watch?v=XHM5rxQ_IkA)   
 * [Aula 2 - 21/08/2020](https://www.youtube.com/watch?v=33EMdL-U5eY)    
 * [Aula 3 - 24/08/2020](https://www.youtube.com/watch?v=fBG_JyIJJkQ)    
-* Aula 4 - 28/08/2020
+* [Aula 4 - 28/08/2020](https://www.youtube.com/watch?v=jHlbtzu4lzc)
 
 </br>
 
@@ -88,22 +114,6 @@ Reunimos, a seguir, alguns materiais e informações que podem ser de interesse 
 
 * [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)   
 * [CPI dos Fundos de Pensão](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/parlamentar-de-inquerito/55a-legislatura/cpi-fundos-de-pensao/documentos/outros-documentos-1/relatorio-final-apresentado-em-12-04-16)
-
-
-</br>
-
-**Regulamentação CVM relativa a Fundos de Investimentos**
-
-IN CVM | OBJETO
--------|-------------------------------------------------------------
-[555](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst555.pdf)    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
-[356](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/300/inst356consolid.pdf)    | FIDC - Fundos de Investimentos em Direitos Creditórios
-[444](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/400/inst444.pdf)    | FIDC-NP - Fundos de Investimentos em Diretiros Creditórios não Padronizados
-[472](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/400/inst472consolid.pdf)    | FII - Fundos de Investimentos Imobiliários
-[578](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst578consolid.pdf)/[579](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst579.pdf)| FIP - Fundo de Investimentos em Participações
-400/476| Oferta pública de cotas / esforços restritos   
-592 | Consultoria de Investimentos   
-497 | Agente Autônomo de Investimentos   
 
 
 
