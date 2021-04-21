@@ -12,7 +12,7 @@ Reunimos, a seguir, alguns materiais e informações que podem ser de interesse 
 
 **Legislação Básica**
 
-* Resolução CNM n. 3.922/10
+* [Resolução CNM n. 3.922/10](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=3922)
 * [Portaria MPS n. 519](http://sa.previdencia.gov.br/site/2018/01/PORTARIA-MPS-n%C2%BA-519-de-24ago2011-atualizada-at%C3%A9-02jan2018.pdf)   
 
 
@@ -74,7 +74,8 @@ IN CVM | OBJETO
 * [Investimentos em RV pós COVID-19 - 05/05/2020](https://www.youtube.com/watch?v=ARTfzAn8VOQ)    
 * [Semana On-line de Investimentos para os RPPS - 04/05/2020](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
 * [Diferentes Estratégias em Fundos de Ações - 04/06/2020](https://www.youtube.com/watch?v=hgzOTevY600)
-* [Mercado e Alocação: Como posicionar a carteira em busca da meta atuarial - 07/05/2020](https://www.youtube.com/watch?v=M24NN_1wxoM)    
+* [Mercado e Alocação: Como posicionar a carteira em busca da meta atuarial - 07/05/2020](https://www.youtube.com/watch?v=M24NN_1wxoM)
+* [Fundos Estressados e Seus Ativos - 08/04/2021](https://www.youtube.com/watch?v=JJcc13YKbsE&t=3892s)    
 
 
 
@@ -106,7 +107,8 @@ IN CVM | OBJETO
 * [Operação Gatekeepers - **19/04/2018**](http://www.pf.gov.br/agencia/noticias/2018/04/pf-combate-fraudes-envolvendo-fundos-de-pensao)    
 * [Operação Fundo Perdido - **08/05/2018**](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
 * [Operação Abismo - **31/10/2018**](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
-* [Operação Fundo Fake - **15/07/2020**](http://www.pf.gov.br/imprensa/noticias/2020/07-noticias-de-julho-de-2020/operacao-fundo-fake-investiga-gestoes-fraudulentas-em-fundos-de-previdencias-municipais)
+* [Operação Fundo Fake - **15/07/2020**](http://www.pf.gov.br/imprensa/noticias/2020/07-noticias-de-julho-de-2020/operacao-fundo-fake-investiga-gestoes-fraudulentas-em-fundos-de-previdencias-municipais)    
+
 
 </br>
 
