@@ -123,7 +123,7 @@ IN CVM | OBJETO
 
 **Vedações aos Investimentos dos RPPS**
 
-Não relaçãode fundos vedados disponibilizada pela SPrev são apresentadas algumas razões pelas quais a aplicação de recursos em determinado fundo seria vedado ao RPPS. As razões são as elencadas a seguir:
+Na relação de fundos vedados disponibilizada pela SPrev são apresentadas algumas razões pelas quais a aplicação de recursos em determinado fundo seria vedado ao RPPS. As razões são as elencadas a seguir:
 
 Razão                      |  Fundamento Legal
 ---------------------------|-----------------------------------------------------------------
