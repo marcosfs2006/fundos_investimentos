@@ -76,9 +76,10 @@ IN CVM | OBJETO
 * [Semana On-line de Investimentos para os RPPS - 04/05/2020](https://www.youtube.com/watch?v=qwmo6A9CAx4)    
 * [Diferentes Estratégias em Fundos de Ações - 04/06/2020](https://www.youtube.com/watch?v=hgzOTevY600)
 * [Mercado e Alocação: Como posicionar a carteira em busca da meta atuarial - 07/05/2020](https://www.youtube.com/watch?v=M24NN_1wxoM)
-* [Fundos Estressados e Seus Ativos - 08/04/2021](https://www.youtube.com/watch?v=JJcc13YKbsE&t=3892s)    
-
-
+* [Fundos Estressados e Seus Ativos - 08/04/2021](https://www.youtube.com/watch?v=JJcc13YKbsE&t=3892s)   
+* Curso Sobre o Programa de Certificação de Gestores de Regime Próprio de Previdência Social - CGRPPS
+  + [Dia 1 - 17/05/2021](https://www.youtube.com/watch?v=sQ-fS3u_I2U)  
+  + [Dia 2 - 18/05/2021](https://www.youtube.com/watch?v=Dhd9kC2Ynr8)  
 
 
 </br>
