@@ -109,7 +109,7 @@ IN CVM | OBJETO
 * [Operação Fundo Perdido - **08/05/2018**](https://politica.estadao.com.br/blogs/fausto-macedo/procuradoria-aponta-11-investimentos-ruinosos-no-fundo-de-pensao-dos-ferroviarios/)   
 * [Operação Abismo - **31/10/2018**](http://www.previdencia.gov.br/2018/10/descoberta-fraude-em-regime-de-previdencia-de-servidores-publicos-em-pernambuco/)   
 * [Operação Fundo Fake - **15/07/2020**](http://www.pf.gov.br/imprensa/noticias/2020/07-noticias-de-julho-de-2020/operacao-fundo-fake-investiga-gestoes-fraudulentas-em-fundos-de-previdencias-municipais)    
-
+* [Operação Falsus - **20/05/2021**](https://www.gov.br/pf/pt-br/assuntos/noticias/2021/05/policia-federal-deflagra-operacao-falsus-para-apurar-possivel-pratica-de-crimes-contra-o-sistema-financeiro-nacional)   
 
 </br>
 
