@@ -6,7 +6,7 @@ Os dados aqui disponibilizados são utilizados para análises que são implement
 
 O notebook com as análises que estamos conduzindo (tudo ainda é bem experimental) pode ser consultado [aqui](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob).
 
-Outra fonte de informações é o tutorial denominado [`**ADPrevBook**`](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos DAIR.
+Outra fonte de informações é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos DAIR.
 
 Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
 
