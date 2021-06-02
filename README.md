@@ -1,14 +1,19 @@
-# Fundos de Investimentos em RPPS
+# FUNDOS DE INVESTIMENTOS EM RPPS
 
 Repositório para compartilhamento de dados e materiais relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. 
 
-Os dados aqui disponibilizados são utilizados para análises que são implementadas no [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true). Estes dados são disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM.
+Os dados disponibilizados são utilizados em análises implementadas em diversos notebooks do [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
 
-O notebook com as análises que estamos conduzindo (tudo ainda é bem experimental) pode ser consultado [aqui](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob).
+Os dados são disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM. Os notebooks já produzidos são elencados a seguir:
 
-Outra fonte de informações é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos DAIR.
+* [Fundos de Investimentos](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob)    
+* [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 
-Este projeto refere-se à análise dos dados do DAIR e dos Fundos de Investimentos com vistas a identificar, dentre outras coisas, quais Fundos são mais propensos a apresentar problemas.
+Outra fonte de informações, além dos notebooks acima, é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos dados oriundos do DAIR.
+
+</br>
+
+# MATERIAL DE ESTUDO SOBRE INVESTIMENTOS
 
 Reunimos, a seguir, alguns materiais e informações que podem ser de interesse para quem quiser trabalhar com esses dados.
 
@@ -34,9 +39,6 @@ IN CVM | OBJETO
 400/476| Oferta pública de cotas / esforços restritos   
 592 | Consultoria de Investimentos   
 497 | Agente Autônomo de Investimentos   
-
-
-
 
 
 </br>
@@ -90,6 +92,7 @@ IN CVM | OBJETO
   + [Parte 3](https://www.youtube.com/watch?v=fozDgw8Q1Fk)    
   + [Parte 4](https://www.youtube.com/watch?v=0R1GQnVjIRc)    
 
+
 </br>
 
 **Material ANBIMA**
@@ -126,8 +129,6 @@ IN CVM | OBJETO
 
 * [CPMI dos Correios](https://www2.senado.leg.br/bdsf/handle/id/84897)   
 * [CPI dos Fundos de Pensão](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/parlamentar-de-inquerito/55a-legislatura/cpi-fundos-de-pensao/documentos/outros-documentos-1/relatorio-final-apresentado-em-12-04-16)
-
-
 
 </br>
 
