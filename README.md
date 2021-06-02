@@ -4,7 +4,7 @@ Repositório para compartilhamento de dados e materiais relacionadas a Fundos de
 
 Os dados disponibilizados são utilizados em análises implementadas em diversos notebooks do [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
 
-Os dados são disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM. Os notebooks já produzidos são elencados a seguir:
+Os dados são disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM. Os notebooks já produzidos são elencados a seguir: [**Estão em elaboração**]
 
 * [Fundos de Investimentos](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob)    
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
