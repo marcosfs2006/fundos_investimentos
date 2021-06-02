@@ -81,10 +81,14 @@ IN CVM | OBJETO
 * [Diferentes Estratégias em Fundos de Ações - 04/06/2020](https://www.youtube.com/watch?v=hgzOTevY600)
 * [Mercado e Alocação: Como posicionar a carteira em busca da meta atuarial - 07/05/2020](https://www.youtube.com/watch?v=M24NN_1wxoM)
 * [Fundos Estressados e Seus Ativos - 08/04/2021](https://www.youtube.com/watch?v=JJcc13YKbsE&t=3892s)   
-* Curso Sobre o Programa de Certificação de Gestores de Regime Próprio de Previdência Social - CGRPPS
+* __Curso Sobre o Programa de Certificação de Gestores de Regime Próprio de Previdência Social - CGRPPS__
   + [Dia 1 - 17/05/2021](https://www.youtube.com/watch?v=sQ-fS3u_I2U)  
   + [Dia 2 - 18/05/2021](https://www.youtube.com/watch?v=Dhd9kC2Ynr8)  
-
+* __Curso Sobre CPA20__
+  + [Parte 1](https://www.youtube.com/watch?v=5jAAASz2h7g)    
+  + [Parte 2](https://www.youtube.com/watch?v=JJMmmG0_A2U)    
+  + [Parte 3](https://www.youtube.com/watch?v=fozDgw8Q1Fk)    
+  + [Parte 4](https://www.youtube.com/watch?v=0R1GQnVjIRc)    
 
 </br>
 
