@@ -2,14 +2,44 @@
 
 Repositório para compartilhamento de dados e materiais relacionadas a Fundos de Investimento no âmbito dos **Regimes Próprios de Previdência Social - RPPS**. 
 
-Os dados disponibilizados são utilizados em análises implementadas em diversos notebooks do [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
+Os dados disponibilizados são utilizados em análises implementadas em notebooks [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
 
-Os dados são disponibilizados pela Secretaria de Previdência do Ministério da Economia e pela CVM. Os notebooks já produzidos são elencados a seguir: [**Estão em elaboração**]
+Os dados utilizado são disponibilizados pela **Secretaria de Previdência do Ministério da Economia - SPREV** e pela **Comissão de Valores Mobiliários - CVM**.
+
+Os notebooks que estão mais adiantados são elencados a seguir. Deve ser notado que, como estão em desenvolvimento, estão sendo alterados constantemente. 
 
 * [Fundos de Investimentos](https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob)    
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
+* [Pró-Gestão: Algumas Análises Preliminares](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)   
 
-Outra fonte de informações, além dos notebooks acima, é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos dados oriundos do DAIR.
+Uma outra fonte de informações sobre a análise de dados relacionados aos investimentos dos RPPS, além dos notebooks acima, é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos dados oriundos do DAIR.
+
+</br>
+
+# FONTES DE DADOS SOBRE OS INVESTIMENTOS DOS RPPS
+
+### CVM
+
+O [Portal de Dados Abertos da CVM](http://dados.cvm.gov.br/) disponibiliza vários conjuntos de dados relativos a Fundos de Investimentos. Elencamos a seguir os que nos perecem mais importantes:
+
+
+* Dados de **informações cadastrais** dos fundos de investimentos: 
+
+  - [Dados cadastrais de fundos de investimento estruturados e não estruturados (ICVM 555)](http://dados.cvm.gov.br/dataset/fi-cad) A data de referência é o último dia útil em relação à data de consulta
+  - [Dados cadastrais - Fundos de Investimento ICVM 555 – Informações históricas](http://dados.cvm.gov.br/dataset/fi-cad/resource/9ff23a88-d333-4b04-8600-ee474d9e1aae)
+
+* [Dados de cotações diárias](http://dados.cvm.gov.br/dados/FI/DOC/INF_DIARIO/DADOS/) - dados históricos desde 2017
+
+* [Dados do extrato das informações](http://dados.cvm.gov.br/dataset/fi-doc-extrato)
+
+* [Dados da lâmina de informações essenciais](http://dados.cvm.gov.br/dataset/fi-doc-lamina)
+
+
+### SPREV
+
+Os dados relativos à **carteira de investimentos** dos RPPS são disponibilizados pela Secretaria de Previdência Social em sua [página de dados abertos](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/estatisticas-e-informacoes-dos-rpps-1/estatisticas-e-informacoes-dos-rpps) assim como diversos outros dados relacionados ao DAIR (Demonstrativo das Aplicações e Investimentos dos Recursos). 
+
+Um outro conjunto de dados também disponibilizado pela SPREV é a [planilha de enquadramento dos Fundos de Investimentos](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/menu-investimentos/investimento-estatisticas-e-informacoes) localizado no link chamado `Planilha de Enquadramento dos Fundos CGACI-RPPS` no fim da página. 
 
 </br>
 
@@ -90,7 +120,9 @@ IN CVM | OBJETO
   + [Parte 1](https://www.youtube.com/watch?v=5jAAASz2h7g)    
   + [Parte 2](https://www.youtube.com/watch?v=JJMmmG0_A2U)    
   + [Parte 3](https://www.youtube.com/watch?v=fozDgw8Q1Fk)    
-  + [Parte 4](https://www.youtube.com/watch?v=0R1GQnVjIRc)    
+  + [Parte 4](https://www.youtube.com/watch?v=0R1GQnVjIRc)  
+  + [Parte 5 - a](https://www.youtube.com/watch?v=wy_oRVrKkxk)   
+  + [Parte 5 - b](https://www.youtube.com/watch?v=9pK2xCU19zw&t=10s)    
 
 
 </br>
