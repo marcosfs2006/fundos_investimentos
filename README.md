@@ -215,3 +215,6 @@ Em razão desse dispositivo, a SPrev publicou lista exaustiva das sociedades emp
 * [Fundos de Investimentos para RPPS – CVM – CADERNO 10](http://sa.previdencia.gov.br/site/2016/08/CVM-Caderno-10semISBNparaimpressao.pdf)    
 * [Resolução Normativa nº 14/2018 - TCE MT ](https://www.tce.mt.gov.br/conteudo/show/sid/73/cid/47023/t/Nova+metodologia+apura+preju%EDzo+por+exposi%E7%E3o+temer%E1ria+dos+recursos+do+RPPS) Metodologia para Apuração de Prejuízo por Exposição Temerária dos Recursos do RPPS
 * [Aplicações Financeiras dos Regimes Próprios de Previdencia Social - TCE MT](https://www.tce.mt.gov.br/arquivos/downloads/00077163/PubliContas%C2%BFTCE-MT_Aplica%C3%A7%C3%B5esFinanceiras%20do%20RPPS%20-%20digital.pdf)
+* [Melhores Práticas na Gestão dos Regimes Próprios de Previdência Social - RPPS (1a Ed - 2017) - TCE-RS](https://portalnovo.tce.rs.gov.br/wp-content/uploads/2020/06/relatorio_RPPS.pdf)
+* [Livros CVM - Série TOP](https://www.investidor.gov.br/publicacao/LivrosCVM.html#AnaliseInvestimento)
+
