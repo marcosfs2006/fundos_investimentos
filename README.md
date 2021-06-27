@@ -59,6 +59,11 @@ Reunimos, a seguir, alguns materiais e informações que podem ser de interesse 
 
 **Regulamentação CVM relativa a Fundos de Investimentos**
 
+A legislação da CVM pode ser consultada [nessa página](http://conteudo.cvm.gov.br/legislacao/index.html)
+
+O quadro a seguir possui links para Instruções Normativas que possuem relação com o tema Fundos de Investimentos.
+
+
 IN CVM | OBJETO
 -------|-------------------------------------------------------------
 [555](http://www.cvm.gov.br/export/sites/cvm/legislacao/instrucoes/anexos/500/inst555.pdf)    | FI - Fundos de Renda Fixa, de Ações, Cambiais e Multimercados
