@@ -87,6 +87,7 @@ IN CVM | OBJETO
 * [Enquadramento dos fundos](http://sa.previdencia.gov.br/site/2020/03/Planilha-Consolidada031220.xlsx)   
 * [Ofício Circular Conjunto nº 1/2018/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2018/08/oc-sin-sprev-012018.pdf)    
 * [Ofício Circular Conjunto nº 3/2019/CVM/SIN/SPREV](http://sa.previdencia.gov.br/site/2019/02/Oficio-Circular-CVM-SIN-SPREV-03_2019.pdf)   
+* [Ofício Circular Conjunto nº 5/2021/CVM/SIN/SPREV](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/legislacao-dos-rpps/oficios/oficio-circular-conjunto-no-52021cvmsinsprev-7-de-junho-de-2021.pdf)   
 * [Credenciamento pelos RPPS das Instituições e Produtos de Investimento](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/investimentos-do-rpps/credenciamento-pelos-rpps-das-instituicoes-e-produtos-de-investimento)   
 * [Portal do Investidor - CVM](https://www.investidor.gov.br/index.html)        
 
