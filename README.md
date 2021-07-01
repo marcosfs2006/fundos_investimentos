@@ -11,6 +11,8 @@ Os notebooks que estão mais adiantados são elencados a seguir. Deve ser notado
 * Fundos de Investimentos <!-- (https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob)  -->  
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * [Pró-Gestão: Algumas Análises Preliminares](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)   
+* [Art. 15 da Resolução CMN 3922/10](https://colab.research.google.com/drive/1Vp6F8KqjR7Mt0Hm3AdighDJI5zKtofdd?usp=sharing)
+
 
 Uma outra fonte de informações sobre a análise de dados relacionados aos investimentos dos RPPS, além dos notebooks acima, é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos dados oriundos do DAIR.
 
@@ -138,6 +140,7 @@ IN CVM | OBJETO
 
 </br>
 
+<!--
 **Material sobre detecção de fraudes usando análise de redes sociais**
 
 * [Social Networks for Fraud Analytics](https://youtu.be/XYk4Xtad0Bg) - Vídeo Youtube     
@@ -145,6 +148,9 @@ IN CVM | OBJETO
 * (...)   
 
 </br>
+
+-->
+
 
 **Operações da PF envolvendo Fundos de Investimentos**
 
@@ -185,6 +191,9 @@ FII - Negociação 60%       | xx
 Investidor Profissional    | xx
 FIDC Vedado - Classe Única | xx
 
+</br>
+
+**Art. 15, par. 2o da Resolução CMN 3922/20**
 
 Adicionalmente às vedações acima elencadas, a Resolução 3922/10, em seu art. 15, par. 2o assim dispõe:
 
@@ -205,7 +214,6 @@ _III - o gestor e o administrador do fundo de investimento tenham sido objeto de
 prévio credenciamento, de que trata o inciso VI do § 1º do art. 1º, e sejam considerados pelos
 responsáveis pela gestão de recursos do regime próprio de previdência social como de boa
 qualidade de gestão e de ambiente de controle de investimento._
-
 
 Em razão desse dispositivo, a SPrev publicou lista exaustiva das sociedades empresárias que atendem a estes requisitos. Assim, caso um fundo de investimento possua administrador e gestor que não estejam na referida lista, não é elegível para receber aplicações de recursos dos RPPS. 
 
