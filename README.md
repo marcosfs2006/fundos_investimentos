@@ -43,6 +43,13 @@ Os dados relativos à **carteira de investimentos** dos RPPS são disponibilizad
 
 Um outro conjunto de dados também disponibilizado pela SPREV é a [planilha de enquadramento dos Fundos de Investimentos](https://www.gov.br/previdencia/pt-br/assuntos/previdencia-no-servico-publico/menu-investimentos/investimento-estatisticas-e-informacoes) localizado no link chamado `Planilha de Enquadramento dos Fundos CGACI-RPPS` no fim da página. 
 
+### B3
+
+* [Fundos de Investimento Imobiliário - FII](http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm)
+* [Fundos de Investimento em Participações  FIP](http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-em-participacoes-fip.htm)
+* [Fundo de Investimentos em Ações - FIA](http://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundo-de-investimentos-em-acoes-fia.htm)
+
+
 </br>
 
 # MATERIAL DE ESTUDO SOBRE INVESTIMENTOS
