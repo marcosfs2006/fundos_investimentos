@@ -191,11 +191,11 @@ Razão                      |  Fundamento Legal
 ---------------------------|-----------------------------------------------------------------
 Ativo Vedado               | xx
 CRI / CRA                  | xx
-FIDC Vedado                | Art. 23, III, Res. 3922/10 (FIDC não padronizado)
+FIDC Vedado                | Art. 23, III, Res. 3.922/10 (FIDC não padronizado)
 FIP Vedado                 | xx
 FII Vedado                 | xx
-FII - Negociação 60%       | xx
-Investidor Profissional    | xx
+FII - Negociação 60%       | Art. 8, IV, 'b' Res. 3.922/10 (Redação anterior do dispositivo exigia presença em 60% nos pregões no período de doze meses anteriores à aplicação. Agora basta que sejam negociados nos pregões de bolsa de valores)
+Investidor Profissional    | Art. 23, VII, Res. 3.922/10
 FIDC Vedado - Classe Única | xx
 
 </br>
