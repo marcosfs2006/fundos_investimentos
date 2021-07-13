@@ -8,10 +8,10 @@ Os dados utilizado são disponibilizados pela **Secretaria de Previdência do Mi
 
 Os notebooks que estão mais adiantados são elencados a seguir. Deve ser notado que, como estão em desenvolvimento, estão sendo alterados constantemente. 
 
-* Fundos de Investimentos <!-- (https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob)  -->  
+* Análise Exploratória Preliminar dos Fundos de Investimentos <!-- (https://colab.research.google.com/drive/1wCzkhgpybSLgVUuqCh7KqOUZt8fWWTob)  -->  
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
-* [Pró-Gestão: Algumas Análises Preliminares](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)   
-* [Art. 15 da Resolução CMN 3922/10](https://colab.research.google.com/drive/1Vp6F8KqjR7Mt0Hm3AdighDJI5zKtofdd?usp=sharing)
+* [Pró-Gestão,Investidores Qualificados e Fundos de Investimento](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)   
+* [Fundos de Investimento nas carteiras dos RPPS que não atendem ao Art. 15, parágrafo. 2o, da Resolução CMN 3922/10](https://colab.research.google.com/drive/1Vp6F8KqjR7Mt0Hm3AdighDJI5zKtofdd?usp=sharing)
 * [Enquadramento de Fundos de Investimentos](https://colab.research.google.com/drive/1EegnjTPH-jjgvDV-wO3WieBCjAk3H2ox?usp=sharing)
 
 Uma outra fonte de informações sobre a análise de dados relacionados aos investimentos dos RPPS, além dos notebooks acima, é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos dados oriundos do DAIR.
