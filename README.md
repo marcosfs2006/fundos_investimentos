@@ -12,7 +12,7 @@ Os notebooks que estão mais adiantados são elencados a seguir. Deve ser notado
 * [Análise do Perfil da Carteira de Ativos](https://colab.research.google.com/drive/1ZFmjCiMY91EAeIS4lw1afFRBVDnRSGyd?usp=sharing)
 * [Pró-Gestão: Algumas Análises Preliminares](https://colab.research.google.com/drive/1Nmy2hZyJGS-x_Mz5uNJfibpT1CKkXYuG?usp=sharing)   
 * [Art. 15 da Resolução CMN 3922/10](https://colab.research.google.com/drive/1Vp6F8KqjR7Mt0Hm3AdighDJI5zKtofdd?usp=sharing)
-
+* [Enquadramento de Fundos de Investimentos](https://colab.research.google.com/drive/1EegnjTPH-jjgvDV-wO3WieBCjAk3H2ox?usp=sharing)
 
 Uma outra fonte de informações sobre a análise de dados relacionados aos investimentos dos RPPS, além dos notebooks acima, é o tutorial denominado [**`ADPrevBook`**](https://marcosfs2006.github.io/ADPrevBook/) que contém um capítulo dedicado aos dados oriundos do DAIR.
 
